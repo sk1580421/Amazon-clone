@@ -1,0 +1,26 @@
+.subtotal{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    width: 100%;
+    padding: .5em;
+}
+
+.price{
+    margin: .5em;
+}
+
+.checkbox{
+    margin-left: 1em;
+    min-width: 10px;
+}
+
+.checkoutbutton{
+    margin: .7em;
+    background-color: rgb(206, 206, 4);
+    padding: 0.3em;
+    border-radius: 4px;
+
+}

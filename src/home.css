@@ -1,0 +1,26 @@
+.home{
+  max-width: 90%;
+ 
+margin: auto;
+
+
+}
+
+.homerow{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 1em;
+    max-height: 74vh;
+    z-index: 99;
+}
+.banner{
+    
+    object-fit: contain;
+    width: 100%;
+    z-index: -9;
+    position: sticky;
+    
+    
+    margin-bottom: -15%;
+    mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.986) ,rgba(0, 0, 0, 0) );
+}

@@ -1,0 +1,94 @@
+
+.login{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    
+    height: 100vh;
+    background-color: white;
+    
+    
+    
+}
+.terms{
+  margin: 1em 0;
+}
+
+
+.signin{
+    border: 2px solid rgb(223, 219, 219);
+    padding: 10px;
+    width: 30%;
+}
+
+
+.signin input{
+    width: 98%;
+    height: 26px;
+}
+
+.signin h5{
+    font-weight: 700 !important;
+    font-size: 1em;
+}
+.signin h1{
+    margin-bottom: .7em;
+}
+
+.email{
+    margin: 5px 0;
+}
+
+.password{
+    margin: 5px 0;
+}
+
+.img{
+    /* width: 100%; */
+    display: flex;
+    
+    justify-content: center;
+
+  
+}
+
+.login img{
+    object-fit: contain;
+    width: 13%;
+    margin: .4em;
+
+   
+    
+
+}
+
+
+
+
+.signinbutton {
+    width: 100%;
+    background-color: rgb(218, 187, 17);
+    border-radius: 3px;
+    padding: .4em;
+    margin: 1em 0;
+}
+
+.newtoamazon{
+    margin: 1em;
+}
+
+.createaccount:active{
+         border: none;
+         background-color:rgb(241, 198, 2);
+}
+.createaccount{
+    border-radius: 3px;
+    background-color: rgb(238, 238, 238);
+    padding: .7em;
+    width: 31%;
+    
+
+
+}
+
+

@@ -1,0 +1,10 @@
+.checkout{
+    display: flex;
+    background-color: white;
+}
+
+.add img{
+    
+    width: 80vw;
+    height: 20vh;
+}

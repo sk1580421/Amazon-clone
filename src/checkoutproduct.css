@@ -1,0 +1,35 @@
+.checkoutproduct{
+    
+    display: flex;
+    width: 30%;
+  
+    background-color: white;
+    margin: 0 1em;
+    
+}
+
+.checkoutproduct img{
+    object-fit: contain;
+ width: 30%;
+ margin: 1em;
+}
+
+.checkoutproduct span{
+ 
+    font-size: 1.2vw;
+}
+.checkoutproduct p{
+    font-size: 1.2vw;
+}
+
+.checkoutproductinfo button{
+    margin-top: 8em;
+    padding: .5em;
+    font-size: .9vw;
+}
+
+.checkoutproductinfo{
+    margin: 1em;
+ 
+}
+
